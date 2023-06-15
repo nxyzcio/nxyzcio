@@ -1,16 +1,34 @@
-### Hi there 👋
+<style>
 
-<!--
-**nazar-youtube33/nazar-youtube33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	#content {
 
-Here are some ideas to get you started:
+	width: 80%;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	margin: 100px auto 0 auto;
+
+	color: #fff;
+
+	font-size: 24px;
+
+	text-align: center;
+
+	background-color: rgba(0, 0, 0, 0.5);
+
+	border-radius: 15px;
+
+	padding-top: 5px;
+
+	padding-bottom: 5px;
+
+}
+
+</style>
+<div id="content">
+
+		<h1>Добро пожаловать на сайт!</h1>
+
+		<div class="bor"></div>
+
+		<p>Здесь вы можете найти ничего интересного.</p>
+
+	</div>
